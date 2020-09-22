@@ -1,8 +1,8 @@
 # Vue Ant Design Boiler plate
 
-[![Actions Status](https://github.com/shirodkarpushkar/vue-boilerplate/workflows/Deploy%20to%20Github%20Pages/badge.svg)](https://github.com/shirodkarpushkar/vue-boilerplate/actions)
+[![Actions Status](https://github.com/shirodkarpushkar/vue-antd-boilerplate/workflows/Deploy%20to%20Github%20Pages/badge.svg)](https://github.com/shirodkarpushkar/vue-antd-boilerplate/actions)
 
-View the demo at https://shirodkarpushkar.github.io/vue-boilerplate/
+View the demo at https://shirodkarpushkar.github.io/vue-antd-boilerplate/
 
 Simple Vue Ant Design Boiler plate for integrating ant design components.
 
