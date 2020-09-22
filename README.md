@@ -4,7 +4,7 @@
 
 View the demo at https://shirodkarpushkar.github.io/vue-boilerplate/
 
-Simple Boiler plate for making large vue applications.
+Simple Vue Ant Design Boiler plate for integrating ant design components.
 
 - already contains structured files and folder
 - high scalability
@@ -20,26 +20,16 @@ Simple Boiler plate for making large vue applications.
 The following dependies are used to make life lot simpler for Vue developers all packages are at their latest version.
 
 - axios
-- bootstrap
-- command-line-args
-- crypto-js
+- ant-design-vue
 - font-awesome
-- jquery
-- jsonwebtoken
 - lodash
 - normalize.css
 - nprogress
-- roboto-fontface
 - v-runtime-template
 - vue
-- vue-awesome-swiper
-- vue-image-lightbox
 - vue-lazyload
 - vue-meta
-- vue-multiselect
 - vue-router
-- vue-toasted
-- vuejs-paginate
 - vuelidate
 - vuex
 
