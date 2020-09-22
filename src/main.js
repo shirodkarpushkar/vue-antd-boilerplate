@@ -4,7 +4,10 @@ import router from '@router'
 import store from '@state/store'
 import Vuelidate from 'vuelidate'
 import VueLazyLoad from 'vue-lazyload'
+import Antd from 'ant-design-vue'
+import 'ant-design-vue/dist/antd.css'
 
+Vue.use(Antd)
 Vue.use(VueLazyLoad)
 Vue.use(Vuelidate)
 
