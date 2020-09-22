@@ -3,14 +3,19 @@ import store from '@state/store'
 export default [
   {
     path: '/',
-    redirect: 'home',
+    redirect: 'login',
   },
 
   {
-    path: '/home',
-    name: 'home',
-    component: () => lazyLoadView(import('@views/home')),
+    path: '/login',
+    name: 'login',
+    component: () => lazyLoadView(import('@views/login')),
+  },
 
+  {
+    path: '/register',
+    name: 'register',
+    component: () => lazyLoadView(import('@views/register')),
   },
   /* name has different to reuse the same component */
 
